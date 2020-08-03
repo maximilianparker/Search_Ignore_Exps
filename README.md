@@ -1,5 +1,5 @@
 # Search_Ignore_Exps
-Visual search 2AFC experiment written in Psychopy
+Visual search 2AFC experiment written in PsychToolbox
 
 These files comprise an experiment conducted in the Visual Cognition lab at Cambridge. 
 
